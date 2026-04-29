@@ -246,3 +246,6 @@ __marimo__/
 
 #Dataset ligger lokalt
 data/
+
+#report ligger lokalt
+report/
